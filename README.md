@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Soumya Mishra,@SoumyaMishra1007
+- 👋 Hi, I’m Soumya Mishra.
 - 👀 I’m interested in Java,HTML,CSS,Python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Java projects
